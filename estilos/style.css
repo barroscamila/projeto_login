@@ -83,11 +83,11 @@ main {
     border: 2px solid #D95204;
     font-size: 0.8em;
     color: white;
-    width: calc(100% - 45px);
-    height: 100%;
+    width: calc(100% - 46px);
+    height: 38px;
     border-radius: 8px;
 
-    transform: translateY(-11px);  /* colocar o transform sempre na ultima linha */
+    transform: translateY(-12px);  /* colocar o transform sempre na ultima linha *
 }
 
 form input[type=submit] {

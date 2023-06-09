@@ -87,7 +87,7 @@ main {
     height: 38px;
     border-radius: 8px;
 
-    transform: translateY(-12px);  /* colocar o transform sempre na ultima linha *
+    transform: translateY(-12px);  /* colocar o transform sempre na ultima linha */
 }
 
 form input[type=submit] {
